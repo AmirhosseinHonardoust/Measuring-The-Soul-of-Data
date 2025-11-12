@@ -1,7 +1,7 @@
 # Measuring the Soul of Data: Inside Fidelity, Coverage, Privacy, and Utility
 
 > *“If data has a soul, it lives in its structure, in the way patterns breathe, relationships form, and meanings emerge.”*
- 
+  
 ---     
 
 ## 1. Introduction: Can Data Have a Soul?
