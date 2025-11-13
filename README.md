@@ -4,7 +4,7 @@
   
 ---       
 
-## 1. Introduction: Can Data Have a Soul?
+## 1. Introduction: Can Data Have a Soul? 
 
 In the age of **synthetic intelligence**, we’ve learned to generate nearly anything, text, art, voice, and even human-like behavior.  
 But what happens when machines begin generating **data itself**, the raw material of intelligence?  
