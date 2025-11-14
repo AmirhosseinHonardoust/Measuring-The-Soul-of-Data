@@ -3,7 +3,7 @@
 > *“If data has a soul, it lives in its structure, in the way patterns breathe, relationships form, and meanings emerge.”*
    
 ---                     
-    
+     
 ## 1. Introduction: Can Data Have a Soul? 
 
 In the age of **synthetic intelligence**, we’ve learned to generate nearly anything, text, art, voice, and even human-like behavior.  
